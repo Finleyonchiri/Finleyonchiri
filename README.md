@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning interior design with IT 
 - 💞️ I’m looking to collaborate on web design 
-- 📫 How to reach me 0102645377
+- 📫 How to reach me +254102645377
 - 😄 Pronouns: him
 - ⚡ Fun fact: am clairevoyant
 - 📧nyabugafinley@gmail.com
