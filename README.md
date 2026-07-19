@@ -1,8 +1,28 @@
 <p align="center">
   <a href="https://github.com/Finleyonchiri">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I am Finley Nyabuga I&#39;m" />
+    <img src="https://vercel.app" alt="Hello! I am Finley Nyabuga" />
   </a>
 </p>
+
+<p align="center">
+  <b>✨ Lead UI/UX Designer @ GDG on Campus Maseno University | Full-Stack Web Craftsperson | Founder of TALES ONLINE ✨</b>
+</p>
+
+<p align="center">
+  <img src="https://shields.io" alt="Focus"/>
+  <img src="https://shields.io" alt="Location"/>
+</p>
+
+---
+
+### 🚀 About Me
+
+* 🎨 **UI/UX Designer** leading design initiatives and community workshops for **GDG on Campus Maseno University**.
+* 💻 **Full-Stack Developer** passionate about crafting interactive web experiences and seamless user interfaces.
+* 💳 **Founder** of **TALES ONLINE** and creator of **TalesPay**, reshaping digital payments in Kenya.
+* 🎓 Second-year **Interior Design with IT** student at Maseno University, marrying physical and digital space optimization.
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -35,7 +55,7 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="Https://talesme.top" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://talesme.top" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:nyabugafinley@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
